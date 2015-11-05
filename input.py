@@ -1,3 +1,3 @@
-person = raw_input('Jimmy Wang')
+person = raw_input('Jimmy')
 print('Hello' + person = '!')
 
